@@ -1,0 +1,42 @@
+.fondo_pag{
+    background-color: #fff0f7;
+}
+.logo_mlp {
+    height: 2rem;
+    margin: 0%;
+}
+.img_perfil{
+    align-items: right;
+    height: 2rem;
+    margin: 0%;
+}
+.img_logo_nav{
+    text-decoration: none;
+    display: grid;
+}
+
+nav {
+    background-color: pink;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around; /* Distribuye los elementos equitativamente */
+    padding: 0;
+}
+
+.item_nav{
+    margin: 0;
+    padding: 10px; 
+}
+
+.link_nav {
+    text-decoration: none;
+    color: #ed3c95;
+}
+
+.item_nav:hover{
+  transition: 250ms;
+  background-color:#91268c;
+}
