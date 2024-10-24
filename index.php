@@ -59,18 +59,18 @@
             </section>
 
             <div class="sidebar-right">
-                <h2>Podría interesarte...</h2>
+                <h2>podría interesarte...</h2>
                 <div class="suggestion">
-                    <img src="img/img_pinkiee.jpg" alt="Pinkie">
-                    <p>¡Último momento!</p>
+                    <a href="https://www.20minutos.es/cinemania/noticias/my-little-pony-se-estrenara-finalmente-en-netflix-4583531/" target="_blanck"><img src="img/pelimlpnoti.webp" alt="pinkie"></a>
+                    <p>¡ULTIMO MOMENTO!</p>
                 </div>
                 <div class="suggestion">
-                    <img src="img/pinkie.jpg" alt="Título 2">
-                    <p>¡Último momento!</p>
+                    <a href="https://www.20minutos.es/television/rick-morty-cameo-my-little-pony-45362/" target="_blanck"><img src="img/mlprick.webp" alt="titulo 2"></a>
+                    <p>¡ULTIMO MOMENTO!</p>
                 </div>
                 <div class="suggestion">
-                    <img src="img/apple.jpg" alt="Título 3">
-                    <p>¡Último momento!</p>
+                    <a href="https://ramenparados.com/publicado-el-primer-capitulo-del-manga/" target="_blanck"><img src="img/normal_lttile-pony.jpg" alt="titulo 3"></a>
+                    <p>¡ULTIMO MOMENTO!</p>
                 </div>
             </div>
         </div>

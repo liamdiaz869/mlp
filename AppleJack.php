@@ -13,11 +13,11 @@
             <img src="img/my-little-pony-logo-2021-500x293.webp" class="logo_mlp" alt="my little pony logo">
         </a>
         <nav>
-            <ul class="nav-list">
-                <li class="item_nav"><a href="index.php" class="link_nav">inicio</a></li>
-                <li class="item_nav"><a href="#" class="link_nav">temporadas</a></li>
-                <li class="item_nav"><a href="#" class="link_nav">películas</a></li>
-                <li class="item_nav"><a href="#" class="link_nav">canciones</a></li>
+        <ul class="nav-list">
+                <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
+                <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
+                <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
+                <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
             </ul>
         </nav>
         <img src="img/img_perfil.jpg" class="img_perfil" alt="imagen de perfil">
@@ -48,23 +48,23 @@
         </div>
 
         <section class="main-content">
-            <h1>Rarity</h1>
+            <h1>Applejack</h1>
             <div class="personaje-contenedor">
                 <div class="personajes">
-                    <img src="img/img_rarity1.jpg" alt="rarity">
+                    <img src="img/applej.webp" alt="rarity">
                 </div>
                 <div class="texto">
-                    <p><strong>Nombre:</strong> Rarity <br> 
-                       <strong>Elemento de la armonía:</strong> Generosidad <br>
-                       <strong>Ocupación:</strong> Modista <br>
-                       <strong>Vive en:</strong> Boutique Carrousel - Ponyville <br>
-                       <strong>Tipo de pony:</strong> Unicornio 
+                    <p><strong>Nombre:</strong> AppleJack <br> 
+                       <strong>Elemento de la armonía:</strong> Honestidad <br>
+                       <strong>Ocupación:</strong> Granjera <br>
+                       <strong>Vive en:</strong> Sweet Apple Acres <br>
+                       <strong>Tipo de pony:</strong> Terrestre 
                     </p>
                 </div>
                 
             </div>
             <p class="personajes_text">
-                Rarity es una pony unicornio que reside en Ponyville y es una de los principales personajes de My Little Pony; La Magia de la Amistad. Su sueño es vivir en Canterlot. Destaca por su belleza, su pelo brillante y sus extraordinarios rizos de color morado. Ella es la hermana mayor de Sweetie Belle y quizás el amor platónico de Spike, ya que en el episodio Simple Ways, se ve que Spike perdió un poco el interés hacia ella. Rarity es una diseñadora de moda y como costurera en su propia tienda, Boutique del carrusel. Tiene una gata persa blanco llamada Opalescence. Ella representa el Elemento de la Generosidad. A diferencia de Twilight Sparkle, su magia se utiliza para las actividades relacionadas con su talento especial y para tareas básicas como sostener y transportar objetos o la búsqueda de piedras preciosas.
+            Applejack es una poni terrestre y una de las principales personajes de My Little Pony: La Magia de la Amistad. Vive y trabaja en Sweet Apple Acres con su abuela, su hermano mayor Big Macintosh, su hermana pequeña Apple Bloom, y su perra Winona. Ella representa el Elemento de la Honestidad.
             </p>
             <div class= "personajes-relacionados">
                 <p>Personajes relacionados:</p>
@@ -79,15 +79,15 @@
         <div class="sidebar-right">
             <h2>podría interesarte...</h2>
             <div class="suggestion">
-                <img src="img/img_pinkiee.jpg" alt="pinkie">
+                <a href="https://www.20minutos.es/cinemania/noticias/my-little-pony-se-estrenara-finalmente-en-netflix-4583531/" target="_blanck"><img src="img/pelimlpnoti.webp" alt="pinkie"></a>
                 <p>¡ULTIMO MOMENTO!</p>
             </div>
             <div class="suggestion">
-                <img src="img/pinkie.jpg" alt="titulo 2">
+                <a href="https://www.20minutos.es/television/rick-morty-cameo-my-little-pony-45362/" target="_blanck"><img src="img/mlprick.webp" alt="titulo 2"></a>
                 <p>¡ULTIMO MOMENTO!</p>
             </div>
             <div class="suggestion">
-                <img src="img/apple.jpg" alt="titulo 3">
+                <a href="https://ramenparados.com/publicado-el-primer-capitulo-del-manga/" target="_blanck"><img src="img/normal_lttile-pony.jpg" alt="titulo 3"></a>
                 <p>¡ULTIMO MOMENTO!</p>
             </div>
         </div>
