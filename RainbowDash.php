@@ -8,22 +8,21 @@
 </head>
 <body class="fondo_pag">
 <header>
-    <div class="header-container">
-        <a href="index.php">
-            <img src="img/my-little-pony-logo-2021-500x293.webp" class="logo_mlp" alt="my little pony logo">
-        </a>
-        <nav>
-            <ul class="nav-list">
-                <li class="item_nav"><a href="index.php" class="link_nav">inicio</a></li>
-                <li class="item_nav"><a href="#" class="link_nav">temporadas</a></li>
-                <li class="item_nav"><a href="#" class="link_nav">películas</a></li>
-                <li class="item_nav"><a href="#" class="link_nav">canciones</a></li>
-            </ul>
-        </nav>
-        <img src="img/img_perfil.jpg" class="img_perfil" alt="imagen de perfil">
-    </div>
-</header>
-
+        <div class="header-container">
+            <a href="index.php">
+                <img src="img/my-little-pony-logo-2021-500x293.webp" class="logo_mlp" alt="my little pony logo">
+            </a>
+            <nav>
+                <ul class="nav-list">
+                    <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
+                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
+                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
+                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                </ul>
+            </nav>
+            <img src="img/img_perfil.jpg" class="img_perfil" alt="Imagen de perfil">
+        </div>
+    </header>
 <main>
     <div class="content-container">
         <div class="sidebar-left">
