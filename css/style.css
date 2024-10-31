@@ -1,40 +1,9 @@
-
 body.fondo_pag {
     background-color: #f8e1f4;
-    font-family: arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     color: #333;
-}
-
-.parrafo1{
-    font-size: 40px;
-    text-align: center;
-}
-
-.parrafo2{
-    font-size: 30px;
-    text-align: start;
-}
-
-.parrafo3{
-    font-size: 30px;
-    text-align: end;
-}
-
-.parrafo4{
-    font-size: 30px;
-    text-align: start;
-}
-
-.logo-container {
-    text-align: center;
-    margin-bottom: -20px;
-}
-
-.logo_mlp {
-    width: 100px;
-    height: auto;
 }
 
 .header-container {
@@ -46,6 +15,11 @@ body.fondo_pag {
     background-color: #ff99cc;
     padding: 10px 20px;
     border-radius: 50px;
+}
+
+.logo_mlp {
+    width: 100px;
+    height: auto;
 }
 
 nav ul.nav-list {
@@ -86,10 +60,15 @@ nav ul.nav-list {
 }
 
 .sidebar-left {
-    width: 10%;
+    width: 150px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    color: #ef67a5;
     display: flex;
     flex-direction: column;
     gap: 10px;
+    margin-right: 5px;
 }
 
 .sidebar-left img {
@@ -107,23 +86,57 @@ nav ul.nav-list {
     color: #c24f9c;
 }
 
-.personajes-content {
-    margin-top: 10px;
-    max-width: 60%;
-    
-    background-color: #fff;
-    padding: 0px;
-    border-radius: 20px;
-
+.personaje-contenedor {
+    display: flex;
+    align-items: center;
 }
 
-.characters-banner img {
-    width: 100%;
+.personajes img {
+    height: 360px;
+    margin-right: 20px;
     border-radius: 20px;
+    margin-left: 20px;
+}
+
+.texto {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #ff99cc;
+    max-width: 400px;
+    color: #86366c;
+    text-align: left;
+    font-size: 20px;
+}
+
+.personajes-relacionados {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.relacionados {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.personaje {
+    text-align: left;
+    max-width: 150px;
+}
+
+.personaje img {
+    width: 100%;
+    border-radius: 10px;
 }
 
 .sidebar-right {
-    width: 20%;
+    width: 200px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    color: #ef67a5;
 }
 
 .sidebar-right h2 {
@@ -140,7 +153,6 @@ nav ul.nav-list {
 .suggestion img {
     width: 200px;
     border-radius: 10px;
-    
 }
 
 .suggestion p {
@@ -148,75 +160,25 @@ nav ul.nav-list {
     text-align: center;
 }
 
-.footer{
-    background-color: #ff99cc ;
+.footer {
+    background-color: #ff99cc;
     height: 80px;
     color: #552244;
     text-align: center;
-    
-}
-
-.personaje-contenedor {
-    display: flex;
-    align-items: center;
-}
-
-.personajes img {
-    height: 360px;
-    margin-right: 20px;
-    border-radius: 20px;
-    margin-left: 20px;
-}
-
-.personajes_text {
-    height: 260px;
-    margin-right: 0px;
-    border-radius: 20px;
-    margin-left: 10px;
-    font-size: 20px;
-}
-
-.relacionados img {
-    width: 140px;
-    border-radius: 10px;
-    align-items: left;
-}
-
-.personajes-relacionados{
-    text-align: left;
-    font-size: 20px;
-}
-
-.texto-contenedor {
-    display: flex;
-    border-radius: 10px;
     padding: 20px;
 }
 
-.texto {
-    padding: 15px;
-    border-radius: 10px;
-    background-color: #ff99cc ;
-    max-width: 400px;
-    color: #86366c;
-    text-align: left;
-    margin-top: -130px;
-    font-size: 20px;
+.parrafo1 {
+    font-size: 40px;
+    text-align: center;
 }
 
-.sidebar-right {
-    width: 200px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 20px;
-    color: #ef67a5;
+.parrafo2, .parrafo3, .parrafo4 {
+    font-size: 30px;
+    text-align: start;
 }
 
-.sidebar-left {
-    width: 150px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 20px;
-    color: #ef67a5;
-    margin-right: 5px;
+.logo-container {
+    text-align: center;
+    margin-bottom: -20px;
 }

@@ -65,13 +65,19 @@
             <p class="personajes_text">
                 Rarity es una pony unicornio que reside en Ponyville y es una de los principales personajes de My Little Pony; La Magia de la Amistad. Su sueño es vivir en Canterlot. Destaca por su belleza, su pelo brillante y sus extraordinarios rizos de color morado. Ella es la hermana mayor de Sweetie Belle y quizás el amor platónico de Spike, ya que en el episodio Simple Ways, se ve que Spike perdió un poco el interés hacia ella. Rarity es una diseñadora de moda y como costurera en su propia tienda, Boutique del carrusel. Tiene una gata persa blanco llamada Opalescence. Ella representa el Elemento de la Generosidad. A diferencia de Twilight Sparkle, su magia se utiliza para las actividades relacionadas con su talento especial y para tareas básicas como sostener y transportar objetos o la búsqueda de piedras preciosas.
             </p>
-            <div class= "personajes-relacionados">
-                <p>Personajes relacionados:</p>
-                    <div class= "relacionados">
-                        <img src="img/img_pinkie1.jpg" alt="pinkie">
-                    <p>Pinkie Pie</p>
-                    </div>
-            </div>
+            <div class="personajes-relacionados">
+    <p>Personajes relacionados:</p>
+    <div class="relacionados">
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+    </div>
+</div>
         </section>
 
       
