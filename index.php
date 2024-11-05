@@ -20,7 +20,7 @@
                     <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
                 </ul>
             </nav>
-            <img src="img/img_perfil.jpg" class="img_perfil" alt="Imagen de perfil">
+            <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
         </div>
     </header>
 
@@ -74,6 +74,19 @@
                 </div>
             </div>
         </div>
+        <div id="ventanaModal" class="modal">
+    <div class="contenido-modal">
+        <span class="cerrar">&times;</span>
+        <h2 class="sesion">Inicia Sesion</h2>
+        <form action="">
+            <p>Correo electrónico</p>
+            <input type="text" placeholder="mylittlewiki@gmail.com" class="form"> 
+            <p>Contraseña</p>
+            <input type="text" placeholder="*************" class="form">
+        </form>
+        <button class="ingresa"> Ingresa </button>
+    </div>
+  </div>
     </main> 
 
     <footer class="footer">
@@ -81,4 +94,5 @@
         <p>&copy; 2024 My Little Pony. Todos los derechos reservados.</p>
     </footer>
 </body>
+<script src="js/modal.js"></script>
 </html>
