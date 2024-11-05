@@ -65,13 +65,19 @@
             <p class="personajes_text">
             Rainbow Dash, es una poni pegaso y una de las personajes principales de My Little Pony: La Magia de la Amistad ya que aparece casi en todos los capítulos. Su trabajo es despejar el cielo de Ponyville. Ella es una fanática de Los Wonderbolts, y su gran sueño es pertenecer a ese grupo de élite algún día, sueño que se cumplió en Dash La Novata. En La Rain-plosión Sónica tanto Rarity como la Princesa Celestia, la declaran la mejor voladora de toda Equestria ya que muestra un gran valor por la lealtad, pues por lo cual demuestra optimismo. Representa el Elemento de la Lealtad. Ella fue la última de entre las seis personajes principales en conseguir una mascota, la suya es una tortuga mascota llamada Tanque, que fue presentada y domesticada por Rainbow en ¡Que Gane la Mejor Mascota!.
             </p>
-            <div class= "personajes-relacionados">
-                <p>Personajes relacionados:</p>
-                    <div class= "relacionados">
-                        <img src="img/img_pinkie1.jpg" alt="pinkie">
-                    <p>Pinkie Pie</p>
-                    </div>
-            </div>
+            <div class="personajes-relacionados">
+    <p>Personajes relacionados:</p>
+    <div class="relacionados">
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+    </div>
+</div>
         </section>
 
       

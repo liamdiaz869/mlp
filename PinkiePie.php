@@ -64,13 +64,19 @@
             <p class="personajes_text">
             Pinkie Pie es una poni terrestre que se aloja en el pueblo de Ponyville y es uno de los personajes principales en My Little Pony: La Magia de la Amistad y representa el Elemento de la Risa. "Pinkie Pie" significa en español "Pastel Rosita" literalmente traducido, pero hay personas que lo traducen como "Pastelito Rosa" o "Pastel Rosado". Su nombre completo dicho por su madre en Crónicas de la Amistad es Pinkamena Diane Pie. Vive en Sugarcube Corner, lugar en donde trabaja como pastelera, ayudando al Sr. y Sra. Cake con su trabajo, cuida de los bebés Pumpkin Cake y Pound Cake, desde el capítulo Los Bebés Cake, y haciendo fiestas para los ponis de Ponyville.
             </p>
-            <div class= "personajes-relacionados">
-                <p>Personajes relacionados:</p>
-                    <div class= "relacionados">
-                        <img src="img/img_pinkie1.jpg" alt="pinkie">
-                    <p>Pinkie Pie</p>
-                    </div>
-            </div>
+            <div class="personajes-relacionados">
+    <p>Personajes relacionados:</p>
+    <div class="relacionados">
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+    </div>
+</div>
         </section>
 
       

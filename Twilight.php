@@ -66,13 +66,19 @@
             <p class="personajes_text">
             La Princesa Twilight Sparkle es el personaje principal de My Little Pony: La Magia de la Amistad, representa el Elemento de la Magia. Inicialmente era un unicornio hasta Cura Mágica y Misteriosa donde se transformó en princesa alicornio. Sus familiares conocidos son Twilight Velvet y Night Light, sus padres; su hermano, Shining Armor; su cuñada la Princesa Cadance quien también fue su niñera y Flurry Heart, su recién nacida sobrina. Al inicio de la serie vivía en Canterlot junto con Spike, su mejor amigo y asistente, bajo la tutela de la Princesa Celestia, sin embargo se mudó a Ponyville en el episodio La Magia de la Amistad, Parte 2, porque no quería abandonar a sus amigas. Solía alojarse en la biblioteca aunque actualmente tiene su propio castillo.
             </p>
-            <div class= "personajes-relacionados">
-                <p>Personajes relacionados:</p>
-                    <div class= "relacionados">
-                        <img src="img/img_pinkie1.jpg" alt="pinkie">
-                    <p>Pinkie Pie</p>
-                    </div>
-            </div>
+            <div class="personajes-relacionados">
+    <p>Personajes relacionados:</p>
+    <div class="relacionados">
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+    </div>
+</div>
         </section>
 
       

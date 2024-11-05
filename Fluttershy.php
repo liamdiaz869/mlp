@@ -64,13 +64,19 @@
             </div>
             <p class="personajes_text">
             Fluttershy es una poni pegaso y una de los personajes principales de My Little Pony: La Magia de la Amistad. Ella vive en una pequeña cabaña cerca del Bosque Everfree y es una cuidadora y amante de los animales, el más prominente de sus cargos siendo Angel el conejo. Ella representa el elemento de la Bondad/Amabilidad. Su nombre significa: Aleteo Tímido.
-            <div class= "personajes-relacionados">
-                <p>Personajes relacionados:</p>
-                    <div class= "relacionados">
-                        <img src="img/img_pinkie1.jpg" alt="pinkie">
-                    <p>Pinkie Pie</p>
-                    </div>
-            </div>
+            <div class="personajes-relacionados">
+    <p>Personajes relacionados:</p>
+    <div class="relacionados">
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+        <div class="personaje">
+            <img src="img/img_pinkie1.jpg" alt="pinkie">
+            <p>Pinkie Pie</p>
+        </div>
+    </div>
+</div>
         </section>
 
       
