@@ -50,7 +50,7 @@
             <section class="main-content">
                 <h1>Inicio</h1>
                 <div class="characters-banner">
-                    <img src="img/banner_mlp.jpg" alt="Personajes My Little Pony">
+                    <img src="img/banner_mlp.jpg" class="banner" alt="Personajes My Little Pony">
                 </div>
                 <p class= "parrafo1"><u>¡Gracias por interesarte en nuestro contenido!</u></p>
                 <p class= "parrafo2">Veremos información sobre la serie, las películas, los personajes principales e incluso las canciones.</p>
