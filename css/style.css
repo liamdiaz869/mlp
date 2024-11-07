@@ -1,6 +1,6 @@
 body.fondo_pag {
     background-color: #f8e1f4;
-    font-family: Arial, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     color: #333;
@@ -31,7 +31,7 @@ nav ul.nav-list {
 }
 
 .item_nav {
-    margin: 0;
+    margin-right: 60px;
 }
 
 .link_nav {
@@ -176,6 +176,8 @@ nav ul.nav-list {
 .parrafo2, .parrafo3, .parrafo4 {
     font-size: 30px;
     text-align: start;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .logo-container {
@@ -252,26 +254,70 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 .ingresa{
-    margin-top: 20%;
+    margin-top: 10%;
     background-color: #ef67a5;
     color: white;
     text-align: center;
     border-radius: 20px;
     font-size:xx-large;
     border: none;
-    padding-top: 5px;
-    padding-bottom: 5px;
     padding-right: 43%;
     padding-left: 43%;
 }
 
 .form{
     border: 5px solid #c24f9c;
-    border-radius: 25px;
+    border-radius: 50px;
     font-size: xx-large;
-    color: rgb(173, 173, 173);
+    color: #ef67a5;
+    margin-left: 40px;
+    padding: 1%;
+    width: 85%;
 }
 
 .banner {
     width: 1100px;
+}
+
+.text-mo{
+    color: #86366c;
+    font-size: xx-large;
+    padding-left: 40px;
+}
+
+.button_perfil{
+    border: #ff99cc;
+    background-color: #ff99cc;
+}
+
+/* Estilo general de la tabla */
+.table {
+    width: 100%;
+    border-collapse: collapse; /* Elimina el espacio entre bordes */
+    margin: 20px 0;
+}
+
+/* Estilo de las celdas de encabezado */
+.th {
+    background-color: #ff99cc;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilo de las celdas de datos */
+.td {
+    padding: 8px;
+    text-align: center;
+    border: 60px solid #86366c; /* Borde de las celdas */
+}
+
+/* Estilo de las filas al pasar el ratón */
+.tr:hover {
+    background-color: #fff1f8;
+}
+
+/* Opcional: agregar bordes a la tabla */
+.table, .th, .td {
+    border: 3px solid #c24f9c;
 }

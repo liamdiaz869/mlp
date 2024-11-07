@@ -15,7 +15,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
+                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -46,14 +46,66 @@
             </div>
 
             <section class="main-content">
-                <h1>Inicio</h1>
+                <h1>Temporadas</h1>
                 <div class="characters-banner">
-                    <img src="img/banner_mlp.jpg" class="banner" alt="Personajes My Little Pony">
+                    <img src="img/banner.webp" class="banner" alt="Personajes My Little Pony">
                 </div>
-                <p class= "parrafo1"><u>¡Gracias por interesarte en nuestro contenido!</u></p>
-                <p class= "parrafo2">My Little Pony: La Magia de la Amistad es una serie animada que salió al aire en el canal de televisión The Hub y actualmente es emitida por el canal Discovery Family. El show se estrenó el 10 de octubre del 2010, y concluyó con su novena temporada el 12 de octubre del 2019. Esta es la generación número cuatro de la popular franquicia de Hasbro, My Little Pony, referida como la cuarta generación o G4 (Generación 4), de My Little Pony. </p>
-                <p class= "parrafo3">La serie es protagonizada por una poni unicornio llamada Twilight Sparkle, discípula de la Princesa Celestia que es la gobernante de la tierra mágica de Equestria. Viendo a la joven poni sumida en sus libros, la princesa le encomienda la misión de hacer amigos en Ponyville y le envía a un asistente, un joven dragón llamado Spike. <br>
-                <p class= "parrafo4">¡También dejaremos un par de noticias de esta serie que podrían interesarte!</p>
+                <table class="table">
+        <thead>
+            <tr class="tr">
+                <th class="th">Temporada</th>
+                <th class="th">Inicio</th>
+                <th class="th">Finalización</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="tr">
+                <td class="td">Temporada 1</td>
+                <td class="td">10/10/2010</td>
+                <td class="td">06/05/2011</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 2</td>
+                <td class="td">17/09/2011</td>
+                <td class="td">21/04/2012</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 3</td>
+                <td class="td">10/11/2012</td>
+                <td class="td">16/02/2013</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 4</td>
+                <td class="td">10/10/2010</td>
+                <td class="td">06/05/2011</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 5</td>
+                <td class="td">17/09/2011</td>
+                <td class="td">21/04/2012</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 6</td>
+                <td class="td">10/11/2012</td>
+                <td class="td">16/02/2013</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 7</td>
+                <td class="td">10/10/2010</td>
+                <td class="td">06/05/2011</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 8</td>
+                <td class="td">17/09/2011</td>
+                <td class="td">21/04/2012</td>
+            </tr>
+            <tr class="tr">
+                <td class="td">Temporada 9</td>
+                <td class="td">10/11/2012</td>
+                <td class="td">16/02/2013</td>
+            </tr>
+        </tbody>
+    </table>
             </section>
 
             <div class="sidebar-right">
@@ -98,11 +150,3 @@
 </body>
 <script src="js/modal.js"></script>
 </html>
-
-<?php 	
-
-error_reporting(0);
-$Mensaje = $_GET['error'];
-echo $Mensaje;
-
-?>
