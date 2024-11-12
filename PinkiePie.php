@@ -15,9 +15,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -64,19 +62,9 @@
             <p class="personajes_text">
             Pinkie Pie es una poni terrestre que se aloja en el pueblo de Ponyville y es uno de los personajes principales en My Little Pony: La Magia de la Amistad y representa el Elemento de la Risa. "Pinkie Pie" significa en español "Pastel Rosita" literalmente traducido, pero hay personas que lo traducen como "Pastelito Rosa" o "Pastel Rosado". Su nombre completo dicho por su madre en Crónicas de la Amistad es Pinkamena Diane Pie. Vive en Sugarcube Corner, lugar en donde trabaja como pastelera, ayudando al Sr. y Sra. Cake con su trabajo, cuida de los bebés Pumpkin Cake y Pound Cake, desde el capítulo Los Bebés Cake, y haciendo fiestas para los ponis de Ponyville.
             </p>
-            <div class="personajes-relacionados">
-    <p>Personajes relacionados:</p>
-    <div class="relacionados">
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-    </div>
-</div>
+            <p class="personajes_text">
+            Ella es una poni muy exuberante, entusiasta, traviesa, feliz, chistosa, divertida, habladora, alegre, extravagante y risueña. Compone y canta muchas canciones, y tiene un lagarto bebé sin dientes, como mascota llamado Gummy. A menudo sirve como elemento cómico del show y ejecuta actitudes y habilidades imposibles que desafían la lógica, tales como su cabello aparentemente inflable o incluso a veces "romper la cuarta pared".
+            </p>
         </section>
 
       

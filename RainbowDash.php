@@ -15,9 +15,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -64,19 +62,10 @@
             <p class="personajes_text">
             Rainbow Dash, es una poni pegaso y una de las personajes principales de My Little Pony: La Magia de la Amistad ya que aparece casi en todos los capítulos. Su trabajo es despejar el cielo de Ponyville. Ella es una fanática de Los Wonderbolts, y su gran sueño es pertenecer a ese grupo de élite algún día, sueño que se cumplió en Dash La Novata. En La Rain-plosión Sónica tanto Rarity como la Princesa Celestia, la declaran la mejor voladora de toda Equestria ya que muestra un gran valor por la lealtad, pues por lo cual demuestra optimismo. Representa el Elemento de la Lealtad. Ella fue la última de entre las seis personajes principales en conseguir una mascota, la suya es una tortuga mascota llamada Tanque, que fue presentada y domesticada por Rainbow en ¡Que Gane la Mejor Mascota!.
             </p>
-            <div class="personajes-relacionados">
-    <p>Personajes relacionados:</p>
-    <div class="relacionados">
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-    </div>
-</div>
+            <p class="personajes_text">
+            Rainbow Dash aparece por primera vez en La Magia de la Amistad, Parte 1, donde ella accidentalmente choca contra Twilight Sparkle y la envía hacia un charco de lodo. Durante el intercambio que siguió se conocen por primera vez entre sí. Rainbow Dash, más tarde, se une a Twilight y otras cuatro ponis en La Magia de la Amistad, Parte 2 en su búsqueda de los Elementos de la Armonía. En mitad del viaje, Nightmare Moon intenta detenerlas al tomar la forma de Los Shadowbolts, una imitación del equipo acrobático favorito de Rainbow, y usarlos para persuadir a Rainbow a que abandone a sus amigas. Sin embargo, fallan ya que ella rechaza sus ofertas de fama y poder para ayudar a sus amigas y continuar con la búsqueda. Fue por este acto que ella se ganó el control sobre el Elemento de la Lealtad.
+            </p>
+            
         </section>
 
       

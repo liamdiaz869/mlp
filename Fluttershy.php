@@ -15,9 +15,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -64,19 +62,11 @@
             </div>
             <p class="personajes_text">
             Fluttershy es una poni pegaso y una de los personajes principales de My Little Pony: La Magia de la Amistad. Ella vive en una pequeña cabaña cerca del Bosque Everfree y es una cuidadora y amante de los animales, el más prominente de sus cargos siendo Angel el conejo. Ella representa el elemento de la Bondad/Amabilidad. Su nombre significa: Aleteo Tímido.
-            <div class="personajes-relacionados">
-    <p>Personajes relacionados:</p>
-    <div class="relacionados">
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-    </div>
-</div>
+            </p>
+            <p class="personajes_text">Los episodios Crónicas de la Amistad y Fluttershy al Máximo nos ofrecen vistazos acerca del pasado de Fluttershy. Igual que Rainbow Dash, Fluttershy proviene de Cloudsdale. Cuando era una potra, ella era una débil voladora, y era acosada por los mismos pegasos que se burlaron de Rainbow Dash en La Rain-plosión Sónica, la terminaron apodando "Klutzershy" (traducido literalmente como "Torpe Tímida"). Ella era más alta y desgarbada que la mayoría de potros, algo parecido a Plaid Stripes, Pearly Whites, Thunderstruck, la potra Pear Butter, la potra Applejack, la potra Derpy, y Crystal Hoof, y tenía alas ligeramente más largas. Rainbow Dash intervino para defenderla, y desafió a los bullies a una carrera. Cuando la carrera empezó, los participantes derribaron accidentalmente a Fluttershy fuera de las nubes, provocando que cayera directamente hacia el suelo, un lugar en el que nunca había estado o visto. Se salvó de estrellarse gracias a un enjambre de mariposas que pasaba por allí.
+            </p>
+            <p class="personajes_text">
+            Luego de ver la belleza de los animales y el verdor que había allí, se emociona y empieza a cantar, unos momentos más tarde, la rain-plosión sónica de Rainbow Dash atemoriza a los animales y los obliga a esconderse. Fluttershy adquiere su cutie mark luego de reconfortar a los animales y darse cuenta de su habilidad para hablar con ellos, identificando su conexión especial con los animales.</p>
         </section>
 
       

@@ -16,9 +16,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -66,19 +64,10 @@
             <p class="personajes_text">
             La Princesa Twilight Sparkle es el personaje principal de My Little Pony: La Magia de la Amistad, representa el Elemento de la Magia. Inicialmente era un unicornio hasta Cura Mágica y Misteriosa donde se transformó en princesa alicornio. Sus familiares conocidos son Twilight Velvet y Night Light, sus padres; su hermano, Shining Armor; su cuñada la Princesa Cadance quien también fue su niñera y Flurry Heart, su recién nacida sobrina. Al inicio de la serie vivía en Canterlot junto con Spike, su mejor amigo y asistente, bajo la tutela de la Princesa Celestia, sin embargo se mudó a Ponyville en el episodio La Magia de la Amistad, Parte 2, porque no quería abandonar a sus amigas. Solía alojarse en la biblioteca aunque actualmente tiene su propio castillo.
             </p>
-            <div class="personajes-relacionados">
-    <p>Personajes relacionados:</p>
-    <div class="relacionados">
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-    </div>
-</div>
+            <p class="personajes_text">
+            Al inicio de la serie, ella y Spike, su mejor amigo y asistente, se mudan de Canterlot a la biblioteca Golden Oak en Ponyville para estudiar la magia de la amistad, y en El Reino de Twilight, Parte 2, consigue su propio castillo: el Castillo de Amistad y gana el título de "Princesa de la Amistad". Twilight Sparkle representa el elemento de la magia.
+            </p>
+            <p class="personajes_text">Antes de convertirse en princesa, regularmente envía informes de amistad a la princesa Celestia. En El Bùho de la Discordia, Twilight adopta un buho llamado Owlowiscious. A partir de The Last Problem, ella es la gobernante de Equestria.</p>
         </section>
 
       

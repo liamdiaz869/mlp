@@ -15,9 +15,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -65,19 +63,10 @@
             <p class="personajes_text">
                 Rarity es una pony unicornio que reside en Ponyville y es una de los principales personajes de My Little Pony; La Magia de la Amistad. Su sueño es vivir en Canterlot. Destaca por su belleza, su pelo brillante y sus extraordinarios rizos de color morado. Ella es la hermana mayor de Sweetie Belle y quizás el amor platónico de Spike, ya que en el episodio Simple Ways, se ve que Spike perdió un poco el interés hacia ella. Rarity es una diseñadora de moda y como costurera en su propia tienda, Boutique del carrusel. Tiene una gata persa blanco llamada Opalescence. Ella representa el Elemento de la Generosidad. A diferencia de Twilight Sparkle, su magia se utiliza para las actividades relacionadas con su talento especial y para tareas básicas como sostener y transportar objetos o la búsqueda de piedras preciosas.
             </p>
-            <div class="personajes-relacionados">
-    <p>Personajes relacionados:</p>
-    <div class="relacionados">
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-    </div>
-</div>
+            <p class="personajes_text">
+            Cuando Rarity ve a Twilight Sparkle por primera vez, en el pabellón decorando, tan pronto como Rarity vuelve a mirar en el Twilight, expresa preocupación por la melena desordenada de ella y prácticamente hizo muchos cambios de imagen para Twilight mientras que Spike la miraba.  Rarity cuida de su propia belleza. Trata de desafiar a Trixie en Detectives Presumidos, haciéndose un vestido de la cortina de Trixie, pero Trixie toma medidadas, hasta arruinar la melena de Rarity, haciéndola estallar en lágrimas y huir. Rarity también es especial por su limpieza: ella entra en pánico mientras trataba de evitar barro en Una Noche Difícil y trata de mantenerse a sí misma de mojarse en la lluvia para evitar arruinar su melena. Esto provoca un conflicto con su amiga Applejack, que es, por el contrario, en absoluto despreocupada por conseguir húmedo o embarrado.
+            </p>
+            
         </section>
 
       

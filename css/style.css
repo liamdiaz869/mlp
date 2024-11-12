@@ -187,25 +187,25 @@ nav ul.nav-list {
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
-/* Fondo modal: negro con opacidad al 50% */
+
 .modal {
-  display: none; /* Por defecto, estará oculto */
-  position: fixed; /* Posición fija */
-  z-index: 1; /* Se situará por encima de otros elementos de la página*/
+  display: none; 
+  position: fixed; 
+  z-index: 1;
   padding-top: 180px;
   left: 0;
   top: 0;
-  width: 100%; /* Ancho completo */
-  height: 100%; /* Altura completa */
-  overflow: auto; /* Se activará el scroll si es necesario */
-  background-color: rgba(255, 228, 244, 0.5); /* Color con opacidad del 50% */
+  width: 100%; 
+  height: 100%; 
+  overflow: auto;
+  background-color: rgba(255, 228, 244, 0.5); 
 }
 
-/* Ventana o caja modal */
+
 .contenido-modal {
-  position: relative; /* Relativo con respecto al contenedor -modal- */
+  position: relative; 
   background-color: #ffacd6;
-  margin: auto; /* Centrada */
+  margin: auto; 
   padding: 20px;
   width: 40%;
   height: 60%;
@@ -217,7 +217,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 
-/* Animación */
+
 @-webkit-keyframes animatetop {
   from {top:-300px; opacity:0} 
   to {top:0; opacity:1}
@@ -228,7 +228,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   to {top:0; opacity:1}
 }
 
-/* Botón cerrar */
+
 .close {
   color: black;
   float: right;
@@ -290,14 +290,14 @@ body {font-family: Arial, Helvetica, sans-serif;}
     background-color: #ff99cc;
 }
 
-/* Estilo general de la tabla */
+
 .table {
     width: 100%;
-    border-collapse: collapse; /* Elimina el espacio entre bordes */
+    border-collapse: collapse; 
     margin: 20px 0;
 }
 
-/* Estilo de las celdas de encabezado */
+
 .th {
     background-color: #ff99cc;
     color: white;
@@ -305,22 +305,25 @@ body {font-family: Arial, Helvetica, sans-serif;}
     text-align: center;
 }
 
-/* Estilo de las celdas de datos */
+
 .td {
     padding: 8px;
     text-align: center;
-    border: 60px solid #86366c; /* Borde de las celdas */
+    border: 60px solid #86366c; 
 }
 
-/* Estilo de las filas al pasar el ratón */
+
 .tr:hover {
     background-color: #fff1f8;
 }
 
-/* Opcional: agregar bordes a la tabla */
 .table, .th, .td {
     border: 3px solid #c24f9c;
 }
 .ingresa:hover{
     background-color:#c24f9c;
+}
+
+.hov:hover{
+    background-color: #ef67a5;
 }

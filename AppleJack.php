@@ -15,9 +15,7 @@
             <nav>
                 <ul class="nav-list">
                     <li class="item_nav"><a href="index.php" class="link_nav">Inicio</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Temporadas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Películas</a></li>
-                    <li class="item_nav"><a href="#" class="link_nav">Canciones</a></li>
+                    <li class="item_nav"><a href="temp.php" class="link_nav">Temporadas</a></li>
                 </ul>
             </nav>
             <button class="button_perfil" id="abrirModal"><img src="img/img_perfil.jpg" class="img_perfil " alt="Imagen de perfil"></button>
@@ -65,19 +63,7 @@
             <p class="personajes_text">
             Applejack es una poni terrestre y una de las principales personajes de My Little Pony: La Magia de la Amistad. Vive y trabaja en Sweet Apple Acres con su abuela, su hermano mayor Big Macintosh, su hermana pequeña Apple Bloom, y su perra Winona. Ella representa el Elemento de la Honestidad. Applejack es confiable y leal, siempre dispuesta a ayudar a alguien que la necesita, pero es muy difícil que ella acepte que necesita ayuda, tal como se muestra en el episodio Temporada de Cosecha. Ella se muestra como apoyo y protección de Apple Bloom y sus amigas. Ella trabaja en Sweet Apple Acres principalmente como recolectora de manzanas, aunque también, de vez en cuando recolecta las zanahorias y el maíz de la granja.
             </p>
-            <div class="personajes-relacionados">
-    <p>Personajes relacionados:</p>
-    <div class="relacionados">
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-        <div class="personaje">
-            <img src="img/img_pinkie1.jpg" alt="pinkie">
-            <p>Pinkie Pie</p>
-        </div>
-    </div>
-</div>
+            <p class="personajes_text">Applejack es confiable y leal, siempre dispuesta a ayudar a alguien que la necesita, pero es muy difícil que ella acepte que necesita ayuda, tal como se muestra en el episodio Temporada de Cosecha. Ella se muestra como apoyo y protección de Apple Bloom y sus amigas. Ella trabaja en Sweet Apple Acres principalmente como recolectora de manzanas, aunque también, de vez en cuando recolecta las zanahorias y el maíz de la granja.</p>
         </section>
 
       
@@ -100,7 +86,6 @@
     <div class="contenido-modal">
         <span class="cerrar">&times;</span>
         <h2 class="sesion">Inicia Sesión</h2>
-
 
         <form action="login.php" method="POST">
             <p class="text-mo">Correo electrónico</p>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 15-10-2024 a las 21:13:40
+-- Tiempo de generación: 12-11-2024 a las 18:35:08
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -24,6 +24,28 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Estructura de tabla para la tabla `temporadas`
+--
+
+CREATE TABLE `temporadas` (
+  `inicio` date NOT NULL,
+  `final` date NOT NULL,
+  `temporada` int(5) NOT NULL,
+  `id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Volcado de datos para la tabla `temporadas`
+--
+
+INSERT INTO `temporadas` (`inicio`, `final`, `temporada`, `id`) VALUES
+('2010-10-10', '2011-05-06', 0, 1),
+('2011-09-17', '2012-04-21', 0, 2),
+('2012-11-10', '2013-02-16', 0, 3);
+
+-- --------------------------------------------------------
+
+--
 -- Estructura de tabla para la tabla `user`
 --
 
@@ -33,14 +55,37 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
+-- Volcado de datos para la tabla `user`
+--
+
+INSERT INTO `user` (`Email`, `Password`) VALUES
+('mylittlewiki@gmail.com', 'mylittlewiki');
+
+--
 -- Índices para tablas volcadas
 --
+
+--
+-- Indices de la tabla `temporadas`
+--
+ALTER TABLE `temporadas`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indices de la tabla `user`
 --
 ALTER TABLE `user`
   ADD PRIMARY KEY (`Email`);
+
+--
+-- AUTO_INCREMENT de las tablas volcadas
+--
+
+--
+-- AUTO_INCREMENT de la tabla `temporadas`
+--
+ALTER TABLE `temporadas`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
