@@ -355,6 +355,7 @@ button.abrirModal2:hover, button.eliminarTemporada:hover {
     width: 700px;
     height: 700px;
     margin-top: 50px;
+    
 }
 
 .fondo_form {
@@ -368,4 +369,27 @@ button.abrirModal2:hover, button.eliminarTemporada:hover {
     display: flex;
     margin: 0 auto;
     margin-top: 50px;
+}
+
+.agregar-btn{
+    margin-top: 10%;
+    background-color: #ef67a5;
+    color: white;
+    border-radius: 20px;
+    font-size:xx-large;
+    border: none;
+    padding-right: 40%;
+    padding-left: 43%;
+}
+
+.agregar-text{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    margin: 260px;
+    background-color: #ef67a5;
+    color: white;
+    border-radius: 16px;
+    font-size:30px;
+    border: none;
 }

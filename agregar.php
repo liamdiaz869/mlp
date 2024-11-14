@@ -18,8 +18,8 @@
             <p class="text-mo">Final</p>
             <input type="text" placeholder="0000-00-00" class="form" name="final">
         </form>
-            <input class="ingresa" type="submit" value="Agregar"></in>
-
+            <input class="agregar-btn" type="submit" value="Agregar"></in><br><br>
+        <a class="agregar-text" href="temp.php">Volver</a>
             </div>
 </body>
 </html>
