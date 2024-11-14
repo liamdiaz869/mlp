@@ -72,6 +72,8 @@
                 </div>
             </div>
         </div>
+
+
         <div id="ventanaModal" class="modal">
     <div class="contenido-modal">
         <span class="cerrar">&times;</span>
@@ -88,6 +90,7 @@
             <input class="ingresa" type="submit" value="Ingresá"></in>
 
     </div>
+
   </div>
     </main> 
 

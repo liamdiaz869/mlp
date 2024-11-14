@@ -90,12 +90,13 @@ $Conexion = mysqli_connect($servidor,$usuario,$clave,$base);
                         echo '</table>'; 
 
                     ?>
-                    <div style="display:flex; justify-content: space-around;">
+                    <div style="display: flex; justify-content: space-around;">
+                    <button onmouseover="this.style.backgroundColor='#ef67a5'; this.style.color='black'; this.style.borderColor='#ff66b3';" 
+                        onmouseout="this.style.backgroundColor='#ff99cc'; this.style.color='#86366c'; this.style.borderColor='#c24f9c';"  style="background-color: #ff99cc; font-family:Georgia, 'Times New Roman', Times, serif; border-radius: 15px; border: 2px solid #c24f9c; padding: 15px; color: #86366c;"><a href="agregar.php" style="text-decoration:none; color: #86366c">Agregar temporada</a></button>
                         <button onmouseover="this.style.backgroundColor='#ef67a5'; this.style.color='black'; this.style.borderColor='#ff66b3';" 
-                        onmouseout="this.style.backgroundColor='#ff99cc'; this.style.color='#86366c'; this.style.borderColor='#c24f9c';"  style="background-color: #ff99cc; font-family:Georgia, 'Times New Roman', Times, serif; border-radius: 15px; border: 2px solid #c24f9c; padding: 15px; color: #86366c;">Agregar temporada</button>
-                        <button onmouseover="this.style.backgroundColor='#ef67a5'; this.style.color='black'; this.style.borderColor='#ff66b3';" 
-                        onmouseout="this.style.backgroundColor='#ff99cc'; this.style.color='#86366c'; this.style.borderColor='#c24f9c';"  style="background-color:#ff99cc; font-family:Georgia, 'Times New Roman', Times, serif; border-radius: 15px; border: 2px solid #c24f9c; padding: 15px; color: #86366c; ">Eliminar temporada</button>
+                        onmouseout="this.style.backgroundColor='#ff99cc'; this.style.color='#86366c'; this.style.borderColor='#c24f9c';"  style="background-color:#ff99cc; font-family:Georgia, 'Times New Roman', Times, serif; border-radius: 15px; border: 2px solid #c24f9c; padding: 15px; color: #86366c; " ><a href="elimina.php" style="text-decoration:none; color: #86366c">Eliminar temporada</a></button>
                     </div>
+
                 </section>
 
                 <div class="sidebar-right">

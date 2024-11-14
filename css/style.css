@@ -287,7 +287,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .button_perfil{
     border: #ff99cc;
-    background-color: #ff99cc;
+    background-color: #ff66b3;
 }
 
 
@@ -326,4 +326,22 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .hov:hover{
     background-color: #ef67a5;
+}
+
+/* Estilos generales para los botones */
+button.abrirModal2, button.eliminarTemporada {
+    background-color: #ff99cc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    border: 2px solid #c24f9c;
+    padding: 15px;
+    color: #86366c;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+/* Efectos de hover */
+button.abrirModal2:hover, button.eliminarTemporada:hover {
+    background-color: #ef67a5;
+    color: black;
+    border-color: #ff66b3;
 }
