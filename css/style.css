@@ -345,3 +345,27 @@ button.abrirModal2:hover, button.eliminarTemporada:hover {
     color: black;
     border-color: #ff66b3;
 }
+
+.agregar{
+    position: center; 
+    background-color: #ffacd6;
+    margin: auto; 
+    padding: 20px;
+    border-radius: 20px;
+    width: 700px;
+    height: 700px;
+    margin-top: 50px;
+}
+
+.fondo_form {
+    background-color: #ffdeee;
+}
+
+.img-eliminated{
+    width: 250px;
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+}
