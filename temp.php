@@ -16,6 +16,7 @@ $Conexion = mysqli_connect($servidor,$usuario,$clave,$base);
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>My Little Wiki</title>
+        <link rel="icon" href="img/My-Little-Pony-Logo-2021-500x293.webp" type="image/x-icon">
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body class="fondo_pag">
