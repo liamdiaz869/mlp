@@ -107,8 +107,9 @@
             <p class="text-mo">Contraseña</p>
             <input type="text" placeholder="*************" class="form"
             name="clav">
-        </form>
             <input class="ingresa" type="submit" value="Ingresá"></in>
+        </form>
+            
 
     </div>
   </div>

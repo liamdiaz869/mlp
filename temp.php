@@ -1,4 +1,7 @@
 <?php 
+
+session_start();
+
 // datos de la DB
 $servidor = "localhost";
 $usuario = "root";
@@ -135,8 +138,9 @@ $Conexion = mysqli_connect($servidor,$usuario,$clave,$base);
                         <p class="text-mo">Contraseña</p>
                         <input type="text" placeholder="*************" class="form"
                         name="clav">
+                        <input class="ingresa" type="submit" value="Ingresá"></in>
                     </form>
-                    <input class="ingresa" type="submit" value="Ingresá"></in>
+                    
                 </div>
             </div>
         </main> 

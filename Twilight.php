@@ -105,9 +105,10 @@
             <input type="text" placeholder="mylittlewiki@gmail.com" class="form" name="ema"> 
             <p class="text-mo">Contraseña</p>
             <input type="text" placeholder="*************" class="form"
-            name="clav">
-        </form>
+            name="clav">            
             <input class="ingresa" type="submit" value="Ingresá"></in>
+        </form>
+
 
     </div>
   </div>

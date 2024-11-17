@@ -200,10 +200,11 @@ nav ul.nav-list {
 
 
 .contenido-modal {
+  display:flex;
   position: relative; 
   background-color: #ffacd6;
   margin: auto; 
-  padding: 20px;
+  padding: 20px;    
   width: 40%;
   height: 60%;
   -webkit-animation-name: animarsuperior;
@@ -241,8 +242,8 @@ nav ul.nav-list {
 }
 
 .sesion{
+    display: flex;
     padding-top: 5px;
-    padding-bottom: 5px;
     background-color: #ef67a5;
     color: white;
     text-align: center;
@@ -251,6 +252,7 @@ nav ul.nav-list {
 }
 
 .ingresa{
+    display: flex;
     margin-top: 10%;
     background-color: #ef67a5;
     color: white;
@@ -397,6 +399,6 @@ button.abrirModal2:hover, button.eliminarTemporada:hover {
 }
 .agregar-text:hover{
     background-color: #c24f9c;
-}
+} 
 
  
