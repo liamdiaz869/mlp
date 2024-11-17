@@ -20,6 +20,14 @@ $Conexion = mysqli_connect($servidor,$usuario,$clave,$base);
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body class="fondo_pag">
+    <style>
+        body{
+            cursor: url('img/cursor2.png'), auto;
+            
+        }
+        button:hover, a:hover{ 
+            cursor: url('img/grab.png'), auto;}
+    </style>
         <header>
             <div class="header-container">
                 <a href="index.php">
