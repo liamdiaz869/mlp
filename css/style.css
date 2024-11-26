@@ -50,7 +50,7 @@ nav ul.nav-list {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    border: 2px solid white;
+    border: 2px solid #ff99cc;
 }
 
 .content-container {
@@ -200,7 +200,6 @@ nav ul.nav-list {
 
 
 .contenido-modal {
-  display:flex;
   position: relative; 
   background-color: #ffacd6;
   margin: auto; 
@@ -242,7 +241,6 @@ nav ul.nav-list {
 }
 
 .sesion{
-    display: flex;
     padding-top: 5px;
     background-color: #ef67a5;
     color: white;
@@ -252,7 +250,6 @@ nav ul.nav-list {
 }
 
 .ingresa{
-    display: flex;
     margin-top: 10%;
     background-color: #ef67a5;
     color: white;
