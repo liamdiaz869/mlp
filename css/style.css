@@ -259,6 +259,7 @@ nav ul.nav-list {
     border: none;
     padding-right: 43%;
     padding-left: 43%;
+    margin-bottom: 1%;
 }
 
 .form{
@@ -395,6 +396,22 @@ button.abrirModal2:hover, button.eliminarTemporada:hover {
     text-decoration: none;
 }
 .agregar-text:hover{
+    background-color: #c24f9c;
+} 
+
+.agregar-text2{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    margin: 260px;
+    background-color: #ef67a5;
+    color: white;
+    border-radius: 16px;
+    font-size:30px;
+    border: none;
+    text-decoration: none;
+}
+.agregar-text2:hover{
     background-color: #c24f9c;
 } 
 

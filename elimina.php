@@ -23,7 +23,8 @@
             <input type="text" placeholder="1,2,3,4..." class="form" name="tempo"> 
             <img src="img/pinki-triste.jpg" alt="triste" class="img-eliminated">
             <input class="ingresa" type="submit" value="Eliminar"></in>
-
+            <a class="agregar-text2" href="temp.php">Volver</a>
             </div>
+            
 </body>
 </html>
